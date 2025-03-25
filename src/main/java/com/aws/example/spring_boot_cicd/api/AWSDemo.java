@@ -9,7 +9,7 @@ public class AWSDemo {
 	@GetMapping
 	public String awsDemoPinpeline()
 	{
-		return "AWS Demo test";
+		return "AWSgoodtest";
 	}
 	
 	
