@@ -9,7 +9,7 @@ public class AWSDemo {
 	@GetMapping
 	public String awsDemoPinpeline()
 	{
-		return "AWSgoodtest";
+		return "<h2> Spring Boot Application Deployment Using AWS CICD 2 </h2>";
 	}
 	
 	
